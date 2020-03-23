@@ -1,0 +1,7 @@
+<meta>
+	<info name="Body Line" version="1.0.0" type="script" author="alexaxel705" description="Body Line"/>
+	<script src="client.lua" type="client"/>
+	<file src="models/bodyline.dff" type="client" />
+	<file src="models/bodyline.txd" type="client" />
+	<file src="models/bodyline.col" type="client" />
+</meta>
